@@ -1,7 +1,4 @@
-# Node modules
-node_modules/
-
-# Azure Functions local settings
+ß# Azure Functions local settings
 local.settings.json
 
 # SQLite DB files
