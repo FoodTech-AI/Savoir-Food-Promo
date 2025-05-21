@@ -11,16 +11,19 @@ Savoir-Food-Promo
 │       └── F24C0F90-6561-4586-94C8-F5443C1A45AB_1_105_c.jpeg
 ├── css
 │   └── styles.css
+├── host.json
 ├── index.html
 ├── js
 │   ├── main.js
 │   ├── quiz.js
 │   └── verify.js
 ├── LICENSE
+├── local.settings.json
+├── local.settings.json 
 ├── quiz.html
 ├── README.md
 ├── structure.txt
 ├── success.html
 └── verify.html
 
-7 directories, 17 files
+7 directories, 20 files
