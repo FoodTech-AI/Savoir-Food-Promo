@@ -8,8 +8,6 @@ module.exports = async function (context, req) {
     return;
   }
 
-  // TODO: Add database insertion or SendGrid email here
-
   context.res = {
     status: 200,
     body: { message: "Email reçu. Vérification envoyée." }
