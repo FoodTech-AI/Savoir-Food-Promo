@@ -1,0 +1,26 @@
+Savoir-Food-Promo
+├── api
+│   ├── waitlist
+│   │   ├── function.json
+│   │   └── index.js
+│   └── waitlist.js
+├── assets
+│   └── images
+│       ├── A681027F-6870-46EE-9B11-E3A47CB36529_1_105_c.jpeg
+│       ├── BC1D6492-ADF6-487D-86CA-C6A105FD759F_1_105_c.jpeg
+│       └── F24C0F90-6561-4586-94C8-F5443C1A45AB_1_105_c.jpeg
+├── css
+│   └── styles.css
+├── index.html
+├── js
+│   ├── main.js
+│   ├── quiz.js
+│   └── verify.js
+├── LICENSE
+├── quiz.html
+├── README.md
+├── structure.txt
+├── success.html
+└── verify.html
+
+7 directories, 17 files
