@@ -152,7 +152,7 @@
         return;
       }
 
-      fetch('/api/waitlist', {
+      fetch('http://localhost:7071/api/waitlist', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email })
